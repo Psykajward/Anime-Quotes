@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.secondattempt"
+    namespace = "com.example.animequotes"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.secondattempt"
+        applicationId = "com.example.animequotes"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -39,7 +39,4 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
-
-    implementation ("androidx.viewpager2:viewpager2:1.1.0")
-    implementation ("androidx.recyclerview:recyclerview:1.3.2")
 }

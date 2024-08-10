@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SecondAttempt"
+rootProject.name = "AnimeQuotes"
 include(":app")
  

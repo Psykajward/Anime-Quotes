@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">SecondAttempt</string>
+    <string name="app_name">Anime Quotes</string>
+    <string name="character_image">Character Image</string>
+    <string name="splash_image">Splash_image</string>
+    <!-- Add any other strings here -->
 </resources>
